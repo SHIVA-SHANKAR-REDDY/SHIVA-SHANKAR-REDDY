@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @SHIVA-SHANKAR-REDDY
-- 👀 I’m interested in 🧑‍💻
-- 🌱 I’m currently exploring programming world
-- 💞️ I’m looking to collaborate on github
+Java Backend Developer | Java | Spring Boot | Microservices | REST APIs | PostgreSQL | Docker | AWS
 
 <!---
 SHIVA-SHANKAR-REDDY/SHIVA-SHANKAR-REDDY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
